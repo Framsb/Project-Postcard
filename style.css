@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+}
+
+.caja {
+    background-color: white;
+    font-family: 'Architects Daughter', cursive;
+    width: 400px;
+    height: 350px;
+    margin: 50px auto;
+}
+
+.inicio {
+    width: 100%;
+    display: flex;
+}
+
+.inicio h1 {
+    width: 100%;
+    padding-left: 10px;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+    padding: 10px 10px 0px;
+}
+
+.contn {
+    display: flex;
+    padding: 10px;
+}
+
+.contn1:first-child p {
+    margin-top: 0%;
+}
+
+.contn2 input {
+    font-family: 'Architects Daughter', cursive;
+    border: none;
+    border-bottom: 1px grey solid;
+}
+
+.final {
+    text-align: center;
+}
+
+.boton {
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+    padding: 5px 10px;
+}
